@@ -1,1 +1,1 @@
-# index.html
+# like.html
